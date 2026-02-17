@@ -66,8 +66,6 @@ Initialized the environment by creating the database and verifying the raw data 
 ```plaintext
 sql-sales-analysis/
 │
-├── SQL_Analysis_Superstore_Sales.pdf   # Source Documentation
-├── Superstore_Sales_Presentation.pptx  # Data Visualization & Insights Summary
-├── superstore_analysis.sql             # Main SQL script with all queries
+├── Superstore-Sales_newDashboard.pptx  # Data Visualization & Insights Summary
 ├── results_export/                     # CSV exports of query results
 └── README.md                           # Project Documentation
